@@ -24,6 +24,7 @@ Name[sk]=PeerTube
 Name[sl]=PeerTube
 Name[sv]=PeerTube
 Name[uk]=PeerTube
+Name[vi]=PeerTube
 Name[x-test]=xxPeerTubexx
 Exec=mycroft-gui-app --hideTextInput --skill=peertube-skill.aiix.home
 Icon=peertube-skill
